@@ -38,3 +38,21 @@ p{
   padding: 0 0 20px 0;
 }
 
+a{
+    font-size: 12px; 
+    color: #094067;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a:hover {
+   text-decoration: underline;
+     color:#ef4565;
+}
+
+.main{
+    display: grid;
+    grid-template: repeat(3, 240px) / repeat(2, 240px);
+    margin-bottom: 240px;
+}
