@@ -58,5 +58,24 @@ a:hover {
 }
 
 .text{
- padding: 20px 20px 20px 20px;
+ padding: 0 10px 0 10px;
+}
+
+
+.firstimage{
+ background-image: url("https://loveincorporated.blob.core.windows.net/contentimages/gallery/65fa9de8-427c-436a-8db2-8fb47d984ff4-1800s-statue-liberty-head-paris-getty.jpg") ;   
+background-size: cover;
+background-position: center;
+}
+
+.secondimage{
+ background-image: url("https://imgcdn.stablediffusionweb.com/2024/10/25/c71dd137-fa42-439f-b5d1-7e5e5874ccbc.jpg") ;   
+background-size: cover;
+background-position: center;
+}
+
+.thirdimage{
+ background-image: url("https://lastwordonnothing.com/wp-content/uploads/2017/08/hibernation-bay-small-790x527.jpg") ;   
+background-size: cover;
+background-position: -20px;
 }
