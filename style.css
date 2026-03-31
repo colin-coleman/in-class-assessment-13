@@ -10,3 +10,17 @@ html {
   background-color: #fffffe;
   font-family: Optima, sans-serif;
 }
+
+body {
+  width: 480px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 20px 20px 30px;
+  font-size: 16px;
+  color: #fffffe;
+  text-transform: uppercase;
+  background-color:#90b4ce;
+}
+
